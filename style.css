@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffc00; /* Snapchat yellow */
+    text-align: center;
+}
+
+.snap {
+    background: white;
+    width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.snap img {
+    width: 100%;
+    border-radius: 10px;
+}
